@@ -1,0 +1,39 @@
+LWC Resources
+--------------
+
+Ankit Jain - YT
+Sanjay Gupta - YT
+comrevo - YT
+
+Pranav Jathar - Blog
+Akshay Gunshettiwar - BG
+shivank Lavania - Bg
+Abhishek Bairwa - Bg
+Himanshu sing - BG (Best Blog )
+
+Admin + Development
+--------------------
+
+Salesforce Bulge - YT
+Salesforce Makes sense - YT
+
+
+Trigger Scenarios
+------------------
+
+Pranav Jathar 
+Kanishka Mahalakshmi
+salesforce Ultimate Guide - YT
+Ritik Dubey
+Gaurav Mishra
+
+Apex
+------
+Sirisha Ankitha
+vikaskumar Pandey
+Hemanth Kumar
+Madhu Mohan
+shivam patil
+
+PULL CODE FROM GITHUB -https://www.youtube.com/watch?v=GjcNH8lszKM&t=10s
+JIRA BASICS - https://www.youtube.com/watch?v=3ZfK9LTCeFc&t=35s
